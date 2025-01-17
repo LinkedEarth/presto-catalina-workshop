@@ -4,7 +4,7 @@ title: PReSto: Using PReSto's custom reconstruction engine to modify, customize 
 ---
 ---
 <div style="text-align: center;">
-<img src="images/PReSto.jpg" alt="PReSto Workshop" width="200" />
+<img src="images/presto_logo2.jpg" alt="PReSto Workshop" width="200" />
 </div>
 
 ## Paleoclimate Reconstruction Storehouse (PReSto): Using PReSto's custom reconstruction engine to modify, customize and visualize paleoclimate reconstructions
