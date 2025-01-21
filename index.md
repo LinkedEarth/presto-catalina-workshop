@@ -22,7 +22,7 @@ The PReSto Platform, at https://paleopresto.org/ does several things, including:
 
 This training workshop is designed to introduce users to all of three of these capabilities, with a focus on the use of PReSto's custom reconstruction engine to modify, customize and visualize paleoclimate reconstructions .
 
-* *Intended audience:* researchers who use paleoclimate reconstructions to inform some aspect of theeir research. Participants should come with at least some understanding of the general concepts of paleoclimatology and paleoclimate reconstructions. Participants do not need to have any experience creating paleoclimate reconstructions. Participants from paleoclimate-adjacent fields, including paleoecology, history, paleontology, archeology and many more are especially encouraged to attend.
+* *Intended audience:* researchers who use paleoclimate reconstructions to inform some aspect of their research. Participants should come with at least some understanding of the general concepts of paleoclimatology and paleoclimate reconstructions. Participants do not need to have any experience creating paleoclimate reconstructions. Participants from paleoclimate-adjacent fields, including paleoecology, history, paleontology, archeology and many more are especially encouraged to attend.
 * *Learning objectives:* Introduction to the PReSto platform;  basics of paleoclimate reconstruction approaches; use PReSto's Custom Reconstruciton Engine
 * *Description:* The workshop will consist of a blend of lectures and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
 
