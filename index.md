@@ -24,11 +24,11 @@ This training workshop is designed to introduce users to all of three of these c
 
 * *Intended audience:* researchers who use paleoclimate reconstructions to inform some aspect of theeir research. Participants should come with at least some understanding of the general concepts of paleoclimatology and paleoclimate reconstructions. Participants do not need to have any experience creating paleoclimate reconstructions. Participants from paleoclimate-adjacent fields, including paleoecology, history, paleontology, archeology and many more are especially encouraged to attend.
 * *Learning objectives:* Introduction to the PReSto platform;  basics of paleoclimate reconstruction approaches; use PReSto's Custom Reconstruciton Engine
-* *Description:* The workshop will consist of a blend of lectures, and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
+* *Description:* The workshop will consist of a blend of lectures and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
 
 
 ### Location and format
-This training will be be in-person on Catalina Island. Participants will travel to Los Angeles, where we will take a boat to the Wrigley Marine Science Center, where we will stay for the 3-day, 2-night workshop. he workshop will consist of a blend of lectures, and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
+This training will be in-person on Catalina Island. Participants will travel to Los Angeles, where we will take a boat to the Wrigley Marine Science Center, where we will stay for the 3-day, 2-night workshop. he workshop will consist of a blend of lectures and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
 
 ### Participating
 * Register [here](https://forms.gle/bQW7U3TxvAy2iHWW6) by **February 10th, 2025**. 
