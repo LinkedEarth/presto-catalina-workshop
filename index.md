@@ -32,7 +32,7 @@ This training will be in-person on Catalina Island. Participants will travel to 
 
 ### Participating
 * Register [here](https://forms.gle/bQW7U3TxvAy2iHWW6) by **February 10th, 2025**. 
-* We have funding from the National Science Foundation to provide travel grants that will fully or partially support US-based participants, based on need and funding availablility.
+* We have funding from the National Science Foundation to provide travel grants that will fully or partially support US-based participants, based on need and funding availability.
 * Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
 ### Schedule
