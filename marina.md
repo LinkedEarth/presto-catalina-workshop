@@ -21,7 +21,7 @@ You may park in either the parking lot or in the attached parking structure. Ple
 
 ## Getting to ISI
 
-On the first day, head to the **10th floor** receptionist and ask for PyRATES. We will be using the 1014 conference room so you will already be on the right floor. 
+On the first day, head to the **10th floor** receptionist and ask for PReSto. We will be using the 1014 conference room so you will already be on the right floor. 
 
 ## Staying in Marina Del Rey
 
