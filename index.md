@@ -9,7 +9,7 @@ title: PReSto: Using PReSto's custom reconstruction engine to modify, customize 
 
 ## Paleoclimate Reconstruction Storehouse (PReSto): Using PReSto's custom reconstruction engine to modify, customize and visualize paleoclimate reconstructions
 
-### March 19-21, 2025, Catalina Island, California
+### June 2-4, 2026, Marina del Rey, Los Angeles, California
 
 
 Paleoclimate reconstructions are among the most widely used scientific products from the paleoclimate community. They constitute statistical inference based on thousands of field and laboratory measurements: a single chart like the "Hockey Stick" temperature reconstruction of the past 1,000 years synthesizes what is known about past climate variations in a form that is easily digestible within and beyond the geosciences: in climate science of course, but also the paleogeosciences at large, and even in the social and life sciences. However, such reconstructions are infrequently updated and commonly lag many years behind the latest data and methods. Until recently, the lack of a central clearinghouse also made them difficult to find. Finally, paleoclimate reconstructions involve potentially many subjective choices that have not been exhaustively explored, and are opaque to most users. Enter the Paleoclimate Reconstruction "Storehouse" (PReSto), an NSF-funded project. 
