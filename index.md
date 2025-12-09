@@ -37,7 +37,7 @@ This training will be in-person at USC's Information Science Institute in Marina
 
 ### Schedule
 
-Closer to the event, a more detailed schedule will be available [here](../schedule).
+Closer to the event, a more detailed schedule will be available [here](schedule).
 
 ### Support
 
