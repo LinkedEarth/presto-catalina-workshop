@@ -9,7 +9,7 @@ title: PReSto: Using PReSto's custom reconstruction engine to modify, customize 
 
 ## Paleoclimate Reconstruction Storehouse (PReSto): Using PReSto's custom reconstruction engine to modify, customize and visualize paleoclimate reconstructions
 
-### March 19-21, 2025, Catalina Island, California
+### June 2-4, 2026, Marina del Rey, Los, California
 
 
 Paleoclimate reconstructions are among the most widely used scientific products from the paleoclimate community. They constitute statistical inference based on thousands of field and laboratory measurements: a single chart like the "Hockey Stick" temperature reconstruction of the past 1,000 years synthesizes what is known about past climate variations in a form that is easily digestible within and beyond the geosciences: in climate science of course, but also the paleogeosciences at large, and even in the social and life sciences. However, such reconstructions are infrequently updated and commonly lag many years behind the latest data and methods. Until recently, the lack of a central clearinghouse also made them difficult to find. Finally, paleoclimate reconstructions involve potentially many subjective choices that have not been exhaustively explored, and are opaque to most users. Enter the Paleoclimate Reconstruction "Storehouse" (PReSto), an NSF-funded project. 
@@ -28,7 +28,7 @@ This training workshop is designed to introduce users to all of three of these c
 
 
 ### Location and format
-This training will be in-person on Catalina Island. Participants will travel to Los Angeles, where we will take a boat to the Wrigley Marine Science Center, where we will stay for the 3-day, 2-night workshop. The workshop will consist of a blend of lectures and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
+This training will be in-person at USC's Information Science Institute in Marina del Rey. The workshop will consist of a blend of lectures and directed tutorials, as well as dedicated time for participants to explore applying the PReSto platform and Custom Reconstruction Engine to their own applications. Participants will be expected to present the outcome of the workshop on the last day.
 
 ### Participating
 * Register [here](https://forms.gle/xveiXkEHQEwcxkvY8) by **February 10th, 2025**. 
@@ -37,7 +37,7 @@ This training will be in-person on Catalina Island. Participants will travel to 
 
 ### Schedule
 
-Closer to the event, a schedule will be available [here](https://linkedearth.github.io/presto-catalina-workshop/schedule).
+Closer to the event, a more detailed schedule will be available [here](../schedule).
 
 ### Support
 
