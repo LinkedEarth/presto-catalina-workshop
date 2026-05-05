@@ -1,17 +1,54 @@
-# Overview schedule
+# PReSto Workshop Formal Schedule
 
-The workshop will consist of three full days (9AM - 5PM) at the Information Science Institute in Marina del Rey. Each day will include a mix of instruction, practical tutorials and followed time to work on exercises and personal projects. Lectures will be recorded for aynchronous viewing on YouTube. Participants are expected to give a short presentation on the final day of the workshop. The presentations will not be made publicly available. 
+The workshop will consist of three full days (9AM - 5PM) at the Information Science Institute in Marina del Rey. Each day will include a mix of instruction, practical tutorials and followed time to work on exercises and personal projects. Lectures will be recorded for asynchronous viewing on YouTube. Participants are expected to give a short presentation on the final day of the workshop. The presentations will not be made publicly available.
 
 ## All times are in PST (Los Angeles time)
 
-### Day 1: Introduction to PReSto
+---
 
-Introduction to the PReSto philosophy, reconstruction storehouse, and making your work reproducible 
+### Day 1: Introduction and Visualization
+**Tuesday, June 2 | 9:00 AM - 5:00 PM**
 
-### Day 2: PReSto's Custom Reconstruction Engine
+| Time | Duration | Session | Presenter |
+|------|----------|---------|-----------|
+| 9:00 AM | 30 min | Workshop Introduction & PReSto Overview | Nick |
+| 9:30 AM | 45 min | Introduction to Paleoclimate Reconstructions | Nick/Julien |
+| 10:15 AM | 15 min | Mid-Morning Break | |
+| 10:30 AM | 60 min | Introduction to Data Assimilation | Julien |
+| 11:30 AM | 90 min | Lunch Break | |
+| 1:00 PM | 30 min | PReSto Visualization Platform | Dave |
+| 1:30 PM | 90 min | Visualization and Existing Reconstructions Exercise | Team |
+| 3:00 PM | 15 min | Mid-Afternoon Break | |
+| 3:15 PM | 30 min | Reproducible Scientific Workflows | Dave/Deborah |
+| 3:45 PM | 30 min | Intro to Query, Download, and Visualization | Dave |
+| 4:15 PM | 45 min | Query, Download, and Visualization Exercise | |
+| 5:00 PM | | **End of Day 1** | |
 
-How to use PReSto to modify existing reconstructions, or create your own.
+---
 
-### Day 3: Contributing to PReSto and sharing your results
+### Day 2: Reconstruction and Data Handling
+**Wednesday, June 3 | 9:00 AM - 5:00 PM**
 
-Participants' presentation. 
+| Time | Duration | Session | Presenter |
+|------|----------|---------|-----------|
+| 9:00 AM | 30 min | Introduction to Custom Reconstruction Engine | Dave |
+| 9:30 AM | 150 min | Holocene Data Assimilation Exercise | |
+| 12:00 PM | 75 min | Lunch Break | |
+| 1:15 PM | 30 min | Duplicate Handling: Theory and Practice | Deborah/Dave |
+| 1:45 PM | 150 min | CFR/LMR Exercise and Duplicate Flagging | |
+| 4:15 PM | 45 min | Individual Project Development and Review | |
+| 5:00 PM | | **End of Day 2 & Workshop Dinner (Kalaveros)** | |
+
+---
+
+### Day 3: Project Work and Wrap-up
+**Thursday, June 4 | 9:00 AM - 5:00 PM**
+
+| Time | Duration | Session | Presenter |
+|------|----------|---------|-----------|
+| 9:00 AM | 15 min | Individual Projects Launch | Nick |
+| 9:15 AM | 165 min | Dedicated Time for Individual Projects | |
+| 12:00 PM | 90 min | Lunch Break | |
+| 1:30 PM | 180 min | Project Presentations | |
+| 4:30 PM | 30 min | Closing Remarks | |
+| 5:00 PM | | **End of Workshop** | |
