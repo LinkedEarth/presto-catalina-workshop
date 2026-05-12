@@ -1,4 +1,4 @@
-# PReSto Workshop Formal Schedule
+# PReSto Workshop Schedule
 
 The workshop will consist of three full days (9AM - 5PM) at the Information Science Institute in Marina del Rey. Each day will include a mix of instruction, practical tutorials and followed time to work on exercises and personal projects. Lectures will be recorded for asynchronous viewing on YouTube. Participants are expected to give a short presentation on the final day of the workshop. The presentations will not be made publicly available.
 
@@ -19,9 +19,9 @@ The workshop will consist of three full days (9AM - 5PM) at the Information Scie
 | 1:00 PM | 30 min | PReSto Visualization Platform | Dave |
 | 1:30 PM | 90 min | Visualization and Existing Reconstructions Exercise | Team |
 | 3:00 PM | 15 min | Mid-Afternoon Break | |
-| 3:15 PM | 30 min | Reproducible Scientific Workflows | Dave/Deborah |
-| 3:45 PM | 30 min | Intro to Query, Download, and Visualization | Dave |
-| 4:15 PM | 45 min | Query, Download, and Visualization Exercise | |
+| 3:15 PM | 30 min | Scientific Paper of the Future | Deborah |
+| 3:45 PM | 30 min | Intro to Query and Download | Dave |
+| 4:15 PM | 45 min | Query and Download Exercise | |
 | 5:00 PM | | **End of Day 1** | |
 
 ---
@@ -42,13 +42,14 @@ The workshop will consist of three full days (9AM - 5PM) at the Information Scie
 ---
 
 ### Day 3: Project Work and Wrap-up
-**Thursday, June 4 | 9:00 AM - 5:00 PM**
+**Thursday, June 4 | 9:00 AM - 4:30 PM**
 
 | Time | Duration | Session | Presenter |
 |------|----------|---------|-----------|
 | 9:00 AM | 15 min | Individual Projects Launch | Nick |
 | 9:15 AM | 165 min | Dedicated Time for Individual Projects | |
 | 12:00 PM | 90 min | Lunch Break | |
-| 1:30 PM | 180 min | Project Presentations | |
-| 4:30 PM | 30 min | Closing Remarks | |
-| 5:00 PM | | **End of Workshop** | |
+| 1:30 PM | 30 min | Publishing Your Reconstruction | Dave |
+| 2:00 PM | 120 min | Project Presentations | |
+| 4:00 PM | 30 min | Closing Remarks | |
+| 4:30 PM | | **End of Workshop** | |
