@@ -1,7 +1,5 @@
 # Exercise 4: CFR/LMR Reconstruction with Duplicate Handling
 
-**Day 2 | 1:45–4:15 PM | 150 minutes**
-
 ---
 
 ## Overview

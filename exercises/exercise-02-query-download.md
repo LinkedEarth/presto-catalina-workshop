@@ -1,7 +1,5 @@
 # Exercise 2: Query and Download
 
-**Day 1 | 4:15–5:00 PM | 45 minutes**
-
 ---
 
 ## Overview
