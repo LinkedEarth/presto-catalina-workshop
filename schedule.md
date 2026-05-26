@@ -2,7 +2,7 @@
 
 The workshop will consist of three full days (9AM - 5PM) at the Information Science Institute in Marina del Rey. Each day will include a mix of instruction, practical tutorials and followed time to work on exercises and personal projects. Lectures will be recorded for asynchronous viewing on YouTube. Participants are expected to give a short presentation on the final day of the workshop. The presentations will not be made publicly available.
 
-## All times are in PST (Los Angeles time)
+## All times are in Pacific Daylight Time (Los Angeles time)
 
 ---
 
@@ -11,10 +11,12 @@ The workshop will consist of three full days (9AM - 5PM) at the Information Scie
 
 | Time | Duration | Session | Presenter |
 |------|----------|---------|-----------|
-| 9:00 AM | 30 min | Workshop Introduction & PReSto Overview | Nick |
-| 9:30 AM | 45 min | Introduction to Paleoclimate Reconstructions | Nick/Julien |
-| 10:15 AM | 15 min | Mid-Morning Break | |
-| 10:30 AM | 60 min | Introduction to Data Assimilation | Julien |
+| 9:00 AM | 15 min | Workshop Introduction| Nick |
+| 9:15 AM | 30 min | A brief history of of paleoclimate reconstructions | Julien |
+| 9:45 AM | 30 min | Paleoclimate data: LiPD, compilations, and more | Nick |
+| 10:15 AM | 15 min | Mid-Morning Break | 
+| 10:30 AM | 30 min | PReSto overview | Nick |
+| 11:00 AM | 30 min | Introduction to Data Assimilation | Julien |
 | 11:30 AM | 90 min | Lunch Break | |
 | 1:00 PM | 30 min | PReSto Visualization Platform | Dave |
 | 1:30 PM | 90 min | Visualization and Existing Reconstructions Exercise | Team |
@@ -22,7 +24,7 @@ The workshop will consist of three full days (9AM - 5PM) at the Information Scie
 | 3:15 PM | 30 min | Scientific Paper of the Future | Deborah |
 | 3:45 PM | 30 min | Intro to Query and Download | Dave |
 | 4:15 PM | 45 min | Query and Download Exercise | |
-| 5:00 PM | | **End of Day 1** | |
+| 5:00 PM | | **End of Day 1 & Optional Happy Hour at Firestone-Walker Brewpub** | |
 
 ---
 

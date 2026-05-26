@@ -107,7 +107,7 @@ To get to your starting dataset:
 4. Select "Annual" seasonality
 5. Select "temperature" for the variable name
 
-Once you've done this, update the map. You should have 646 timerseries from 631 locations. This will be your starting point for each of the following reconstructions. 
+Once you've done this, update the map. You should have 643 timerseries from 628 locations. This will be your starting point for each of the following reconstructions. 
 
 ## Run 3: Single (or few) Archive Type (~15 min turnaround)
 
@@ -115,12 +115,13 @@ The Erb et al reconstruction blends many archive types — tree rings, ice cores
 
 ### Steps
 
-6. Continue filtering the dataset you used above, selecting a subset of the archives that were originally used. 
-7. Name the job to reflect your choice (e.g., `holocene-marine-only`) and **submit**
+6. Continue filtering the dataset you used above, selecting a subset of the archives that were originally used. Click "Use Selected Proxies"
+7. This will take you the data selection and deduplication screen. For this exercise, we're not going to worry about this, **but we will still use the automatic deduplication process**. At the bottom of the page select "Next --> Location review". On the next page select "Continue wtih XXX selected records -->". Don't click "Skip -- use all records" or you'll see the danger of not filtering records.
+8. Name the job to reflect your choice (e.g., `holocene-marine-only`) and **submit**
 
 ### When the run finishes...
-8. Create screenshots of both the **spatial maps at interesting time periods** and **time series at the same location in each reconstruction**.
-9. Upload to your slide(s) labeled "Reduced Archived reconstruction."
+9. Create screenshots of both the **spatial maps at interesting time periods** and **time series at the same location in each reconstruction**.
+10. Upload to your slide(s) labeled "Reduced Archived reconstruction."
 
 > **Discussion prompt:** Where does the reconstruction degrade most when you remove most of the proxy network? What does that tell you about where we have (and don't have) good data coverage for the Holocene? Do you think the archive characteristics, or geographic coverage, have a bigger impact on the result? What kinds and locations of new records be the most valuable? 
 
@@ -131,12 +132,15 @@ Now we're going to start a new run and get to our starting dataset by repeating 
 
 This time, we're not going to filter by archive, but instead we're going to filter spatially. 
 
-6. Pick a location your interested in the "Location Filters" tab, either a coordinate box, or continent or countries that you're interested.
-7. Name the job to reflect your choice (e.g., `holocene-south-america`) and **submit**
+6. Pick a location your interested in the "Location Filters" tab, either a coordinate box, or continent or countries that you're interested. Click "Use Selected Proxies"
+7. This will take you the data selection and deduplication screen. For this exercise, we're not going to worry about this, **but we will still use the automatic deduplication process**. At the bottom of the page select "Next --> Location review". On the next page select "Continue wtih XXX selected records -->". Don't click "Skip -- use all records" or you'll see the danger of not filtering records.
 
 
-8. Create screenshots of both the **spatial maps at interesting time periods** and **time series at the same location in each reconstruction**.
-9. Upload to your slide(s) labeled "Restricted geographic coverage reconstruction."
+8. Name the job to reflect your choice (e.g., `holocene-south-america`) and **submit**
+
+
+9. Create screenshots of both the **spatial maps at interesting time periods** and **time series at the same location in each reconstruction**.
+10. Upload to your slide(s) labeled "Restricted geographic coverage reconstruction."
 
 > **Discussion prompt:** Did restricting the geography work the way you expected? Why or why not? How does this impact the archive type experiment you did above? Where would new records be the most valuable? 
 
