@@ -25,8 +25,6 @@ These terms come up throughout the query interface. It's worth having a shared d
 | **Archive type** | The physical material the proxy comes from (e.g., tree ring, coral, ice core, lake sediment, marine sediment, speleothem) |
 | **Variable** | The climate-relevant measurement recorded (e.g., δ¹⁸O, MXD, Sr/Ca, pollen percentage) |
 | **Interpretation** | The inferred climate signal — what the variable is thought to represent (e.g., temperature, hydroclimate) |
-| **Compilation** | A curated, community-assembled collection of records (e.g., PAGES 2k, Iso2k, CoralHydro2k) |
-| **LiPD file** | Linked Paleo Data — the standard file format used throughout the PReSto ecosystem |
 | **TSid** | A unique identifier assigned to each individual time series within LiPDverse |
 
 ---
@@ -39,36 +37,45 @@ Follow these steps exactly. At the end, you should get a specific number of reco
 
 ### Steps
 
-1. Open the PReSto custom reconstruction engine: [paleopresto.org/custom.html](https://paleopresto.org/custom.html)
-2. Select **Query and Download** (not "Run Reconstruction").
-3. Set the following filters:
+1. Launch the PReSto custom reconstruction engine from: [paleopresto.org/custom.html](https://paleopresto.org/custom.html)
+2. Select **LiPD Download**
+3. Authorize PReSto to use your GitHub account
+4. On the query page, choose the "Query Across LiPDverse tab
+5. Set the following filters:
    - **Archive type:** Lake sediment
    - **Interpretation:** Temperature
-   - **Geographic region:** Draw a bounding box covering North America (approximately 15°N–75°N, 170°W–50°W)
+   - **Continent:** North America
    - **Time coverage:** Records must span at least 0–2000 CE
-4. Run the query and note the number of records returned.
-5. Download the LiPD files.
+6. Update the map and note the number of datasets returned.
+7. Proceed to the next step (Data Cleaning) and note the number of records/datasets.
+8. Skip Data Cleaning and submit your download request.
 
-> **Check:** You should have approximately **[N] records**. If you got something very different, check your bounding box and whether your interpretation filter is set correctly.
+> **Check:** At the bottom of the Data Cleaning page you should see **236 Datasets / 1729 Records**. If you got something very different, start over and check your query carefully.
 
 ---
 
 ## Task 2: A Different Query (~15 minutes)
 
-**Goal:** Download coral records from the tropical Pacific with a hydroclimate or salinity interpretation.
+**Goal:** Download annually resolved records from the tropical Pacific with a temperature interpretation.
 
 ### Steps
 
-1. Start a new query.
+1. Start a new query following steps 1-4 from Task 1.
 2. Set the following filters:
-   - **Archive type:** Coral
-   - **Interpretation:** Hydroclimate or salinity (include both if the interface allows multiple selections)
-   - **Geographic region:** Tropical Pacific (approximately 25°S–25°N, 120°E–270°E)
-   - **Time coverage:** Records must span at least 1800–2000 CE
-3. Run the query and note the number of records.
-4. Download the LiPD files.
+   - **Interpretation Variable:** Temperature
+   - **Geographic region:** Tropical Pacific (approximately -23.5°N to 23.5°N, –235°E to -100°E)
+   - **Archive Type:** Coral
+   - **Minimum record length:** Records must cover a minimum of 100 years
+   - **Temporal Resolution:** Records must have a median resolution of 1 year or better
+3. Export a locations map
+   - Click Export PNG (green button just below the map)
+   - Select an appropriate region by dragging the corners of the box
+   - Add a title and decide whether or not to include the query parameters and data summary
+   - Click "Download PNG"
+4. Run the query (skipping de-duplication again) and note the number of records.
+5. Submit your request and explore your custom repository
 
-> **Check:** You should have approximately **[N] records**.
+> **Explore:** Look over the new repository created for you. Can you identify the query paramters you used? How many datasets were downloaded? How could you use this artifact?
 
 > **Reflection:** Compare the density and distribution of records between Tasks 1 and 2. Where are the data sparse? What parts of the world are well-sampled for corals vs. lake sediments?
 
@@ -76,14 +83,14 @@ Follow these steps exactly. At the end, you should get a specific number of reco
 
 ## Task 3: Your Own Query (~10 minutes)
 
-Design a query based on the climate event or period you explored in Exercise 1. Think about:
+Design a query based on the climate event or period you are planning to explore for your project. Think about:
 - What archive types are most likely to record your event?
 - What time period do you need to cover?
 - What region are you interested in?
 
 Run the query, note how many records you get, and download the results. We won't use this data today, but you may want to come back to it when you're developing your individual project on Day 3.
 
-> **If you get too many records (>300):** Try narrowing your region, restricting to fewer archive types, or tightening the time coverage requirement.  
+> **If you get too many records (>300):** Try narrowing your region, restricting to fewer archive types, or tightening the time coverage requirement.
 > **If you get too few (<5):** Broaden your region or relax your archive type and interpretation filters.
 
 ---
@@ -115,11 +122,12 @@ library(lipdR)
 # Load all LiPD files from a folder
 D <- readLipd('/path/to/your/lipd/files/')
 
+# Get a quick preview
+summary(D)
+
 # Extract time series
 ts <- extractTs(D)
 
-# View a summary
-print(sapply(ts, function(x) x$archiveType))
 ```
 
 These snippets are just to connect the download to what working with the data actually looks like — you don't need to run them to complete the exercise.
