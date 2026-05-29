@@ -25,20 +25,20 @@ Each reconstruction job takes approximately **[N] minutes**.
 ### Step 1: Run the Query
 
 1. Open the PReSto custom reconstruction engine: [paleopresto.org/custom.html](https://paleopresto.org/custom.html)
-2. Select **Run Reconstruction → CFR/LMR**.
-3. Under **Data selection**, configure the following:
+2. In the bottom drop-down menu, select **LMR (Last Millennium Reanalysis)"** as the method. 
+3. In the "LiPDverse Query" page, select the tab "Query Across LiPDverse", and configure the following:
 
 | Filter | Setting |
 |--------|---------|
 | **Compilations** | PAGES 2k, Iso2k |
 | **Archive types** | All (leave unfiltered) |
 | **Interpretation** | Temperature |
-| **Geographic bounding box** | [INSERT COORDINATES — e.g., Pacific focus region] |
-| **Time coverage** | Records must span at least 1–2000 CE |
+| **Location filters** | [INSERT COORDINATES — e.g., Pacific focus region] |
+| **Temporal Filters** | Records must span at least 1–2000 CE |
 
 4. Run the query. Note the number of records returned before deduplication.
 
-> **Check:** You should have approximately **[N] raw records** before deduplication. Flag a helper if your count is very different.
+> **Check:** You should have approximately **50-100 raw records** before deduplication. Flag a helper if your count is very different.
 
 ---
 
