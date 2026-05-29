@@ -44,20 +44,20 @@ Each reconstruction job takes approximately **[N] minutes**.
 
 ### Step 2: Dataset-Level Deduplication
 
-The first deduplication step identifies records that appear in more than one of your selected compilations. For each duplicate group, you need to decide which version to keep.
+The first deduplication step identifies similar time series within an individual dataset. For each duplicate group, you need to decide which record to keep.
 
 **Things to consider when choosing between duplicate records:**
 
 - Which version has the longer or more complete time series?
-- Which version has a more recent or better-constrained chronology?
-- Which compilation applied more rigorous quality control?
-- Are there differences in the variable or interpretation metadata that matter for your reconstruction?
+- Interpretation: phenomenon that drove variability in this measured or inferred variable. 
+- Which compilation does the record below to?
+- Are there differences in the interpretation detail or seasonality that matter for your reconstruction?
 
 Work through each flagged group. There is no single right answer — use your scientific judgment.
 
-> **The Umu/Umar coral record** is a good example of a tricky case. It appears in PAGES 2k, in two versions of Iso2k (with differing chronologies), and there are additional associated coral head records with updated age models. It hits nearly every type of duplication scenario you'll encounter. Ask an instructor if you'd like to talk through this one.
+> **Example - Ocn-WestSpitzburg.Bonnet.2010** This dataset contain 5 similar time series split into 3 groups by the deduplication app. All metadata are identical for these records and all are strongly correlated. Older versions of Pages2kTemperature include several of these time series, while the newest iteration (v2_2_0) includes only 1. Which record(s) will you keep? 
 
-When you're done, note somewhere (your slide, a text file) the choices you made and why.
+When you've made a choice on a duplicate group, note the choices you made and why in the text box provided.
 
 ---
 
@@ -67,11 +67,11 @@ The second deduplication step flags records that are geographically very close t
 
 **Things to consider:**
 
-- Are the records from the same site or clearly different sites that happen to be nearby?
+- Are the records from the same site or clearly different sites that happen to be nearby? (Similar records may appear in LiPDverse under different datasets when contributed by different individuals over time.)
 - Do the time series correlate strongly? (A high correlation suggests they're measuring the same thing.)
 - Do they cover different time periods, such that together they extend the record length?
 
-Work through the proximity-flagged groups and record your choices.
+When you've made a choice on a duplicate group, note the choices you made and why in the text box provided.
 
 ---
 
