@@ -37,9 +37,10 @@ A: You will learn how to use the PReSto platform to access, explore and modify p
 A: Yes! You will be able to reuse what your learn in this workshop outside an academic career.
 
 
-### Q: I would love to attend but have previous committments. Is there a way for me to participate? 
+### Q: Where can I find the workshop presentations?
 
-A: The lectures will be released asynchronously and you can always use, learn and explore the PReSto [platform](http://paleopresto.com) on your own.
+A: Slides and other presentation materials are available in this [shared Google Drive folder](https://drive.google.com/drive/folders/1zsvD2j9KSAIkQ8Lz9OkSi66Ll6I1dagV?usp=drive_link).
+ 
 
 ### Q: OK, I'm sold. What happens next?
 
