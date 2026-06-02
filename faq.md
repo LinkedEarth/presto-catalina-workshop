@@ -40,6 +40,10 @@ A: Yes! You will be able to reuse what your learn in this workshop outside an ac
 ### Q: Where can I find the workshop presentations?
 
 A: Slides and other presentation materials are available in this [shared Google Drive folder](https://drive.google.com/drive/folders/1zsvD2j9KSAIkQ8Lz9OkSi66Ll6I1dagV?usp=drive_link).
+
+### Q: Where do I find links or other useful information during the workshop?
+
+A: A running [workshop document](https://docs.google.com/document/d/15OY2_d5ae4hYPNt1e_29D5az4p43oEfWkXPe5XL-GTo/edit?tab=t.0) contains links, notes, and other resources that will be updated throughout the event.
  
 
 ### Q: OK, I'm sold. What happens next?
