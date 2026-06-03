@@ -72,13 +72,9 @@ When you've made a choice on a duplicate group, note the choices you made and wh
 
 ---
 
-### Step 4: Set the Random Seed and Submit
+### Step 4: Reconstruction Settings
 
-To make results comparable across the group, everyone should use the same random seed.
-
-**Random seed for Part 1: `4`**
-
-Enter this seed in the **Advanced settings → Random seed** field before submitting.
+Leave the default reconstruction settings.
 
 Submit the job.
 
