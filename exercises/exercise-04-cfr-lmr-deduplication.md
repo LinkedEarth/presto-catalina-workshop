@@ -18,8 +18,6 @@ This exercise is designed to make that visible.
 
 In Part 1, everyone starts from the same query. Your data pool will be essentially identical. But when you get to the deduplication step, you will make your own choices — and we'll compare results at the end to see how much those choices matter.
 
-Each reconstruction job takes approximately **[N] minutes**.
-
 ---
 
 ### Step 1: Run the Query
@@ -33,12 +31,10 @@ Each reconstruction job takes approximately **[N] minutes**.
 | **Compilations** | PAGES 2k, Iso2k |
 | **Archive types** | All (leave unfiltered) |
 | **Interpretation** | Temperature |
-| **Location filters** | [INSERT COORDINATES — e.g., Pacific focus region] |
+| **Location filters** | (-23.5, 23.5, -235, -100) |
 | **Temporal Filters** | Records must span at least 1–2000 CE |
 
 4. Run the query. Note the number of records returned before deduplication.
-
-> **Check:** You should have approximately **50-100 raw records** before deduplication. Flag a helper if your count is very different.
 
 ---
 
@@ -79,11 +75,9 @@ When you've made a choice on a duplicate group, note the choices you made and wh
 
 To make results comparable across the group, everyone should use the same random seed.
 
-**Random seed for Part 1: `[INSERT SEED]`**
+**Random seed for Part 1: `4`**
 
 Enter this seed in the **Advanced settings → Random seed** field before submitting.
-
-Give your job a name that includes "part1" so you can find it easily (e.g., `cfr-lmr-part1-yourname`).
 
 Submit the job.
 
