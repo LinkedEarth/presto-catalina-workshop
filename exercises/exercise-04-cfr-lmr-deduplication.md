@@ -30,7 +30,7 @@ In Part 1, everyone starts from the same query. Your data pool will be essential
 |--------|---------|
 | **Compilations** | PAGES 2k, Iso2k |
 | **Interpretation** | Temperature |
-| **Location filters** | (-23.5, 23.5, -180, 180) |
+| **Location filters** | (-15, 15, -180, 180) |
 | **Temporal Filters** | Temporal resolution 1 yr |
 | **All Others** | (leave unfiltered) |
 
