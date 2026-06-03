@@ -80,13 +80,15 @@ Submit the job.
 
 ---
 
-### Step 5: While You Wait — Fill in Your Slide
+### Step 5: While You Wait — Fill in Your Slide and Part 2
 
 While your reconstruction is running, set up your slide in the shared deck:
 
 - Add your name
 - Note your deduplication choices (a few bullet points is fine — what were the trickiest calls you made?)
 - Leave space for two figures: a time series and a map
+
+While your reconstruction and visualization runs, begin Part 2
 
 ---
 
