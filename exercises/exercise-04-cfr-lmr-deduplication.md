@@ -146,7 +146,7 @@ This is also a good time to sketch out a plan for your individual project tomorr
 
 ## Reporting Bugs
 
-If something breaks or behaves unexpectedly during this exercise, please file a GitHub Issue on the PReSto repository. Good bug reports include:
+If something breaks or behaves unexpectedly during this exercise, please file a GitHub Issue on the PReSto repository to report platform issues (https://github.com/DaveEdge1/prestoServer/issues) or on the LMR repository for LMR reconstruction issues (https://github.com/DaveEdge1/LMR2/issues). Good bug reports include:
 
 1. **What you were trying to do** (copy the URL from your browser — it encodes your current settings)
 2. **What you expected to happen**
