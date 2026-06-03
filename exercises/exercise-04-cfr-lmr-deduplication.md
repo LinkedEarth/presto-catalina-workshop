@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is the most involved exercise of the workshop. You will run a full reconstruction using the CFR/LMR engine, starting from a query all the way through to a final product — including the deduplication step that you deliberately skipped this morning.
+This is the most involved exercise of the workshop. You will run a full reconstruction using the CFR/LMR engine, starting from a query all the way through to a climate field reconstruction — including the deduplication step that you deliberately skipped this morning.
 
 Deduplication is one of the most consequential and least discussed steps in assembling a paleoclimate reconstruction. The same physical record sometimes appears in multiple compiled datasets, often with slight differences in chronology, variable definition, or metadata. Deciding which version to keep — or whether any version is worth keeping at all — requires scientific judgment. Different reasonable choices can produce meaningfully different reconstructions.
 
@@ -16,7 +16,7 @@ This exercise is designed to make that visible.
 
 ## Part 1: Constrained Reconstruction (everyone does the same query)
 
-In Part 1, everyone starts from the same query. Your data pool will be essentially identical. But when you get to the deduplication step, you will make your own choices — and we'll compare results at the end to see how much those choices matter.
+In Part 1, everyone starts from the same query. Your data pool will be essentially identical. But when you get to the deduplication step, you will make your own choices. We will compare results at the end to see how much those choices matter.
 
 ---
 
@@ -50,11 +50,11 @@ The first deduplication step identifies similar time series within an individual
 - Which compilation does the record below to?
 - Are there differences in the interpretation detail or seasonality that matter for your reconstruction?
 
-Work through each flagged group. There is no single right answer — use your scientific judgment.
+Work through each flagged group. There is no single right answer — use your scientific judgment (and feel free to suggest new  ones via a [GitHub issue](https://github.com/DaveEdge1/prestoServer/issues))
 
-> **Example - Ocn-WestSpitzburg.Bonnet.2010** This dataset contain 5 similar time series split into 3 groups by the deduplication app. All metadata are identical for these records and all are strongly correlated. Older versions of Pages2kTemperature include several of these time series, while the newest iteration (v2_2_0) includes only 1. Which record(s) will you keep? 
+> **Example - Ocn-WestSpitzburg.Bonnet.2010** This dataset contain 5 similar time series split into 3 groups by the deduplication app. All metadata are identical for these records and all are strongly correlated. Older versions of Pages2kTemperature include several of these time series, while the newest iteration (v2_2_0) includes only 1. Which record(s) will you keep, and why? 
 
-When you've made a choice on a duplicate group, note the choices you made and why in the text box provided.
+When you've made a choice on a duplicate group, you need to note the choices you made (and their justification) in the text box provided.
 
 ---
 
