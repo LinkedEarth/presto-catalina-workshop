@@ -29,10 +29,11 @@ In Part 1, everyone starts from the same query. Your data pool will be essential
 | Filter | Setting |
 |--------|---------|
 | **Compilations** | PAGES 2k, Iso2k |
-| **Archive types** | All (leave unfiltered) |
 | **Interpretation** | Temperature |
-| **Location filters** | (-23.5, 23.5, -235, -100) |
-| **Temporal Filters** | Records must span at least 1–2000 CE |
+| **Location filters** | (-23.5, 23.5, -180, 180) |
+| **Temporal Filters** | Temporal resolution 1 yr |
+| **All Others** | (leave unfiltered) |
+
 
 4. Run the query. Note the number of records returned before deduplication.
 
