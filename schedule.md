@@ -52,6 +52,6 @@ The workshop will consist of three full days (9AM - 5PM) at the Information Scie
 | 9:15 AM | 165 min | Dedicated Time for Individual Projects | |
 | 12:00 PM | 90 min | Lunch Break | |
 | 1:30 PM | 30 min | Publishing Your Reconstruction | Dave |
-| 2:00 PM | 120 min | Project Presentations | |
+| 2:00 PM | 120 min | Project Presentations ([slide deck](https://docs.google.com/presentation/d/1EoyFQKtG6oVtphkVzHzJKmufn9v6X-nv0dXQ8G7aPz8/edit?slide=id.p#slide=id.p)) | |
 | 4:00 PM | 30 min | Closing Remarks | |
 | 4:30 PM | | **End of Workshop** | |
