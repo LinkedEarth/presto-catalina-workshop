@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is the most involved exercise of the workshop. You will run a full reconstruction using the CFR/LMR engine, starting from a query all the way through to a final product — including the deduplication step that you deliberately skipped this morning.
+This is the most involved exercise of the workshop. You will run a full reconstruction using the CFR/LMR engine, starting from a query all the way through to a climate field reconstruction — including the deduplication step that you deliberately skipped this morning.
 
 Deduplication is one of the most consequential and least discussed steps in assembling a paleoclimate reconstruction. The same physical record sometimes appears in multiple compiled datasets, often with slight differences in chronology, variable definition, or metadata. Deciding which version to keep — or whether any version is worth keeping at all — requires scientific judgment. Different reasonable choices can produce meaningfully different reconstructions.
 
@@ -16,9 +16,7 @@ This exercise is designed to make that visible.
 
 ## Part 1: Constrained Reconstruction (everyone does the same query)
 
-In Part 1, everyone starts from the same query. Your data pool will be essentially identical. But when you get to the deduplication step, you will make your own choices — and we'll compare results at the end to see how much those choices matter.
-
-Each reconstruction job takes approximately **[N] minutes**.
+In Part 1, everyone starts from the same query. Your data pool will be essentially identical. But when you get to the deduplication step, you will make your own choices. We will compare results at the end to see how much those choices matter.
 
 ---
 
@@ -31,14 +29,13 @@ Each reconstruction job takes approximately **[N] minutes**.
 | Filter | Setting |
 |--------|---------|
 | **Compilations** | PAGES 2k, Iso2k |
-| **Archive types** | All (leave unfiltered) |
 | **Interpretation** | Temperature |
-| **Location filters** | [INSERT COORDINATES — e.g., Pacific focus region] |
-| **Temporal Filters** | Records must span at least 1–2000 CE |
+| **Location filters** | (-15, 15, -180, 180) |
+| **Temporal Filters** | Temporal resolution 1 yr |
+| **All Others** | (leave unfiltered) |
+
 
 4. Run the query. Note the number of records returned before deduplication.
-
-> **Check:** You should have approximately **50-100 raw records** before deduplication. Flag a helper if your count is very different.
 
 ---
 
@@ -53,11 +50,11 @@ The first deduplication step identifies similar time series within an individual
 - Which compilation does the record below to?
 - Are there differences in the interpretation detail or seasonality that matter for your reconstruction?
 
-Work through each flagged group. There is no single right answer — use your scientific judgment.
+Work through each flagged group. There is no single right answer — use your scientific judgment (and feel free to suggest new  ones via a [GitHub issue](https://github.com/DaveEdge1/prestoServer/issues))
 
-> **Example - Ocn-WestSpitzburg.Bonnet.2010** This dataset contain 5 similar time series split into 3 groups by the deduplication app. All metadata are identical for these records and all are strongly correlated. Older versions of Pages2kTemperature include several of these time series, while the newest iteration (v2_2_0) includes only 1. Which record(s) will you keep? 
+> **Example - Ocn-WestSpitzburg.Bonnet.2010** This dataset contain 5 similar time series split into 3 groups by the deduplication app. All metadata are identical for these records and all are strongly correlated. Older versions of Pages2kTemperature include several of these time series, while the newest iteration (v2_2_0) includes only 1. Which record(s) will you keep, and why? 
 
-When you've made a choice on a duplicate group, note the choices you made and why in the text box provided.
+When you've made a choice on a duplicate group, you need to note the choices you made (and their justification) in the text box provided.
 
 ---
 
@@ -75,27 +72,23 @@ When you've made a choice on a duplicate group, note the choices you made and wh
 
 ---
 
-### Step 4: Set the Random Seed and Submit
+### Step 4: Reconstruction Settings
 
-To make results comparable across the group, everyone should use the same random seed.
-
-**Random seed for Part 1: `[INSERT SEED]`**
-
-Enter this seed in the **Advanced settings → Random seed** field before submitting.
-
-Give your job a name that includes "part1" so you can find it easily (e.g., `cfr-lmr-part1-yourname`).
+Leave the default reconstruction settings.
 
 Submit the job.
 
 ---
 
-### Step 5: While You Wait — Fill in Your Slide
+### Step 5: While You Wait — Fill in Your Slide and Part 2
 
 While your reconstruction is running, set up your slide in the shared deck:
 
 - Add your name
 - Note your deduplication choices (a few bullet points is fine — what were the trickiest calls you made?)
 - Leave space for two figures: a time series and a map
+
+While your reconstruction and visualization runs, begin Part 2
 
 ---
 
@@ -146,7 +139,7 @@ This is also a good time to sketch out a plan for your individual project tomorr
 
 ## Reporting Bugs
 
-If something breaks or behaves unexpectedly during this exercise, please file a GitHub Issue on the PReSto repository. Good bug reports include:
+If something breaks or behaves unexpectedly during this exercise, please file a GitHub Issue on the PReSto repository to report platform issues (https://github.com/DaveEdge1/prestoServer/issues) or on the LMR repository for LMR reconstruction issues (https://github.com/DaveEdge1/LMR2/issues). Good bug reports include:
 
 1. **What you were trying to do** (copy the URL from your browser — it encodes your current settings)
 2. **What you expected to happen**

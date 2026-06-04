@@ -101,18 +101,14 @@ If you have Python or R installed and want to explore the data you just download
 
 **Python (using `lipd`):**
 ```python
-import lipd
+pip install pylipd
 
-# Point to the folder where you saved your downloaded LiPD files
-lipd.loadLipds('/path/to/your/lipd/files/')
+# load pilipd
+from pylipd.lipd import LiPD
 
-# Get a list of all time series
-ts = lipd.extractTs(lipd.getLipdNames())
-
-# Print the archive types in your dataset
-import pandas as pd
-df = lipd.ts.to_df(ts)
-print(df['archiveType'].value_counts())
+# load lipd files (update to your local paths)
+lipd = LiPD()
+lipd.load(["MD98_2181.Stott.2007.lpd", "Ant-WAIS-Divide.Severinghaus.2012.lpd", "Asi-TDAXJP.PAGES2k.2013.lpd"])
 ```
 
 **R (using `lipdR`):**
